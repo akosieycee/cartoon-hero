@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: darkgrey;
+	text-align: center;	
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2, h3{
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+header h1{
+	color: black;
+	font-size: 45px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 20px solid black;
+}
+
+main{
+	max-width: 750px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: darkred;
+}
+
+a{
+	color: darkred;
+}
+a:hover{
+	background-color: darkgrey;
+}
+
+footer{
+	background-color: darkgrey;
+	text-align: center;
+	color: blueviolet;
+}
+
+footer a 
